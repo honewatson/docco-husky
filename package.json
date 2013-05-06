@@ -30,7 +30,7 @@
     "url": "git://github.com/mbrevoort/docco-husky.git"
   },
   "dependencies": {
-    "coffee-script": "latest",
+    "coffee-script": "1.6.1",
     "dox": "0.1.2",
     "jade": "0.17.0",
     "gravatar": "1.0.3",
